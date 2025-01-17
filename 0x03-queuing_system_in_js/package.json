@@ -16,7 +16,7 @@
 		"dotenv": "^16.4.7",
 		"express": "^4.17.1",
 		"kue": "^0.11.6",
-		"redis": "^2.8.0"
+		"redis": "^4.7.0"
 	},
 	"devDependencies": {
 		"@babel/cli": "^7.8.0",
